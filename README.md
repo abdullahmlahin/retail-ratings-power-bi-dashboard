@@ -4,7 +4,7 @@ A Power BI group project analyzing customer ratings of retail transactions.
 
 **Business problem:** Where is customer satisfaction strong or weak across brands, cities and age groups?
 
-**What it includes**
+## What it includes
 - Average rating KPI cards
 - Ratings and orders by age group against a 4.0 target
 - Rating mix by city group
@@ -16,4 +16,5 @@ A Power BI group project analyzing customer ratings of retail transactions.
 
 Built for Bentley University's *Data Analytics for Accountants* course (AC 770).
 
-*Data files and course answer keys are not included in this repository.*
+## Files
+- `Retail Transaction- Dashboard Group-6.pbix`: the Power BI report (open in Power BI Desktop)
